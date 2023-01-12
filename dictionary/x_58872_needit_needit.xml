@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de8a231a97542110d9bbb680f053af5d" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="Requested for" max_length="100" name="requested_for" type="string"/>
+        <element label="Request type" max_length="100" name="request_type" type="string"/>
+        <element label="Short Description" max_length="100" name="short_description" type="string"/>
+        <element label="What needed" max_length="100" name="what_needed" type="string"/>
+    </element>
+</database>
